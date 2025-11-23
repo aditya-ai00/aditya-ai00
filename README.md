@@ -43,6 +43,9 @@ Currently working on the **Murf AI Voice Agents Challenge** where I’m building
 ### ☕ Day 2 – Coffee Barista Agent  
 👉 https://github.com/aditya-ai00/luma/tree/main/day2
 
+### ✔ Day 3 — Health & Wellness Voice Companion  
+🔗 https://github.com/aditya-ai00/luma/tree/main/day3
+
 ---
 
 <!-- 🔥 ANIMATED PASSION LINES (NO HEADLINE) -->
