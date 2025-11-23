@@ -31,12 +31,7 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 
 ---
 
-<!-- 🌈 ANIMATED NEON DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="95%" />
-</p>
 
----
 
 ## 🎯 Murf AI Voice Agents Challenge  
 | Day | Project | Status |
