@@ -1,27 +1,53 @@
+<!-- 🌌 CUSTOM BANNER -->
+<p align="center">
+  <img src="/mnt/data/Screenshot 2025-11-21 at 23.46.18.png" width="100%" style="border-radius: 14px;" />
+</p>
 
-
-## 🚀 About Me  
-I'm Aditya, a B.Tech student exploring **AI, Voice Technologies, and UI Engineering**.  
-Proud to be a **Google Student Ambassador**, helping students learn emerging tech.
-
-Currently competing in the **Murf AI Voice Agents Challenge**, building 10 voice agents in 10 days.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Aditya+%7C+AI+Developer;Voice+Agent+Builder;Google+Student+Ambassador;Welcome+to+My+Neon+Universe" />
+</h1>
 
 ---
 
-## ⚡ Tech Stack  
+<!-- 🔥 DARK NEON GLOW BORDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2ff,100:8200ff&height=6&section=header" />
+</div>
+
+---
+
+## 🌙 About Me (Dark Neon Theme)
+I'm **Aditya**, a B.Tech student building the future with **AI**, **Voice Technology**, and **Neon UI experiences**.  
+Proud **Google Student Ambassador**, helping students explore emerging tech.
+
+Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
+
+---
+
+<!-- 🔥 NEON LINE -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,react,git,github,vscode,figma&perline=8" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="92%" />
 </p>
 
 ---
 
+## 🔥 Skills & Tech Stack (Neon Mode)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
+  JavaScript • Node.js • Python • HTML • CSS • React  
+  <br/>
+  Git • GitHub • Figma • VS Code • AI APIs
 </p>
 
 ---
 
-## 🎯 Murf AI Challenge Progress  
+<!-- 🌈 ANIMATED NEON DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="95%" />
+</p>
+
+---
+
+## 🎯 Murf AI Voice Agents Challenge  
 | Day | Project | Status |
 |----|----------|--------|
 | ☑️ 1 | Basic Voice Agent | Completed |
@@ -32,22 +58,22 @@ Currently competing in the **Murf AI Voice Agents Challenge**, building 10 voice
 ---
 
 ## ✨ Featured Projects  
+### 🔊 Day 1 – Simple Voice Agent  
+👉 https://github.com/aditya-ai00/luma/tree/main/day1
 
-### ☕ **Day 2 – Coffee Barista Agent**
-<a href="https://github.com/aditya-ai00/luma/tree/main/day2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-ai00&repo=luma&theme=tokyonight&border_radius=12" />
-</a>
-
----
-
-### 🔊 **Day 1 – Simple Voice Agent (Murf TTS)**
-<a href="https://github.com/aditya-ai00/luma/tree/main/day1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-ai00&repo=luma&theme=react&border_radius=12" />
-</a>
+### ☕ Day 2 – Coffee Barista Agent  
+👉 https://github.com/aditya-ai00/luma/tree/main/day2
 
 ---
 
-## 📬 Contact Me  
+<!-- 🔥 ANIMATED PASSION LINES (NO HEADLINE) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=I+love+building+AI-powered+projects.;I+love+creating+voice+driven+experiences.;Always+learning+Always+improving." />
+</p>
+
+---
+
+## 📬 Contact  
 **Email:** adityanyo39@gmail.com  
 **Phone:** +91 9102829279  
 **LinkedIn:** https://linkedin.com/in/aditya-ai00  
@@ -55,6 +81,11 @@ Currently competing in the **Murf AI Voice Agents Challenge**, building 10 voice
 
 ---
 
+<!-- 🔥 NEON BOTTOM BORDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2ff,100:8200ff&height=6&section=footer" />
+</div>
+
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=aditya-ai00&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=aditya-ai00&color=00E5FF&style=for-the-badge" />
 </p>
