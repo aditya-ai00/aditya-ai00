@@ -1,16 +1,42 @@
-## Hi there 👋
+### Hi, I'm Aditya 👋  
+B.Tech student exploring AI, voice agents and system design.  
+I love building projects, solving problems and learning new things every day.
 
-<!--
-**aditya-ai00/aditya-ai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills & Interests
+- Voice AI & Agents  
+- Node.js & Express  
+- JavaScript / Python  
+- Frontend: HTML, CSS, JS  
+- APIs & Integrations   
+- CTF & Cybersecurity basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Current Challenge  
+### **Murf AI Voice Agents Challenge**  
+Building 10 voice agents in 10 days!  
+Check out my progress here:
+
+👉 **Day 1:** Basic Voice Agent  
+👉 **Day 2:** Coffee Shop Barista Agent  
+(More coming...)
+
+---
+
+## 📂 Featured Projects
+- 🔊 **Voice Agent (Day 1)** – Fast TTS with Murf Falcon  
+- ☕ **Barista Agent (Day 2)** – Takes coffee orders using voice  
+- 🎯 More projects updating soon...
+
+---
+
+## 📫 Contact  
+- LinkedIn: https://linkedin.com/in/aditya-ai00  
+- GitHub: https://github.com/aditya-ai00  
+- Email: adityanyo39@gmail.com
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
