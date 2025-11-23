@@ -1,12 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&color=8AFFEF&center=true&vCenter=true&width=800&lines=Hi+I'm+Aditya+👋;AI+Enthusiast+%7C+Voice+Agent+Developer;Building+10+Voice+Agents+in+10+Days!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aditya+👋;AI+Developer+%7C+Voice+Agent+Builder;Creating+10+Voice+Agents+in+10+Days;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1e1e2e,100:00e5ff&height=80&section=footer&reversal=true" />
+</div>
+
+---
+
 ## 🚀 About Me  
-I'm Aditya, a B.Tech student passionate about **AI, voice agents, UI design, and fast prototyping.**  
-Currently participating in the **Murf AI Voice Agents Challenge**, building 10 voice agents in 10 days.
+I'm Aditya, a B.Tech student passionate about **AI, Voice Agents, UI Design, and Fast Prototyping**.  
+Currently working on the **Murf AI Voice Agents Challenge**.
 
 ---
 
@@ -17,44 +23,47 @@ Currently participating in the **Murf AI Voice Agents Challenge**, building 10 v
 
 ---
 
-## 🎯 Current Challenge – Murf AI Voice Agents  
+## 🔥 Animated Section Divider  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
+</p>
+
+---
+
+## 🎯 Murf AI Challenge Progress  
 | Day | Project | Status |
-|-----|---------|--------|
+|----|----------|--------|
 | ☑️ 1 | Basic Voice Agent | Completed |
 | ☑️ 2 | Coffee Barista Agent | Completed |
-| 🔜 3 | Coming Soon | Loading… |
-| 🔜 4 | Coming Soon | Loading… |
+| 🔜 3 | Coming soon | Loading… |
+| 🔜 4 | Coming soon | Loading… |
 
 ---
 
 ## ✨ Featured Projects  
 
-### ☕ **Day 2 – Coffee Shop Barista Agent**
+### ☕ **Day 2 – Coffee Barista Agent**
 <a href="https://github.com/aditya-ai00/luma/tree/main/day2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-ai00&repo=luma&theme=tokyonight&border_radius=12" />
 </a>
 
 ---
 
-### 🔊 **Day 1 – Simple Voice Agent (Murf TTS)**
+### 🔊 **Day 1 – Simple Voice Agent**
 <a href="https://github.com/aditya-ai00/luma/tree/main/day1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-ai00&repo=luma&theme=react&border_radius=12" />
 </a>
 
 ---
 
-## 🏆 Badges & Achievements  
+## 🔥 Animated Skills Header  
 <p align="center">
-  <img src="https://img.shields.io/badge/Murf%20AI%20Challenge-Participant-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Developer-%F0%9F%A4%96-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2200&pause=800&color=F2A0FF&center=true&vCenter=true&width=500&lines=I+love+building+AI+projects;I+love+creating+voice+agents;I+love+learning+new+technologies" />
 </p>
 
 ---
 
 ## 📬 Contact Me  
-Here is the clean and professional contact section you asked for:
-
 **Email:** adityanyo39@gmail.com  
 **Phone:** +91 9102829279  
 **LinkedIn:** https://linkedin.com/in/aditya-ai00  
