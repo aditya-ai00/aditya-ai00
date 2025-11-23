@@ -1,15 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aditya+👋;AI+Developer+%7C+Voice+Agent+Builder;Google+Student+Ambassador;Creating+10+Voice+Agents+in+10+Days!" />
-</h1>
 
----
 
-<!-- 💫 Glowing Neon Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/5c1GZ4V.gif" width="90%" />
-</p>
-
----
 
 ## 🚀 About Me  
 I'm Aditya, a B.Tech student exploring **AI, Voice Technologies, and UI Engineering**.  
