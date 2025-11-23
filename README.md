@@ -1,5 +1,4 @@
 
----
 
 ## 🚀 About Me  
 I'm Aditya, a B.Tech student exploring **AI, Voice Technologies, and UI Engineering**.  
