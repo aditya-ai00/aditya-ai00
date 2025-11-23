@@ -62,7 +62,7 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 ## Contact  
 **Email:** adityanyo39@gmail.com  
 **Phone:** +91 9102829279  
-**LinkedIn:** https://www.linkedin.com/in/aditya-kumar23/
+**LinkedIn:** https://www.linkedin.com/in/aditya-kumar23/ 
 **GitHub:** https://github.com/aditya-ai00  
 
 ---
