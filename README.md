@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aditya+👋;AI+Developer+%7C+Voice+Agent+Builder;Creating+10+Voice+Agents+in+10+Days;Welcome+to+my+GitHub+Profile!" />
+ 
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1e1e2e,100:00e5ff&height=80&section=footer&reversal=true" />
-</div>
+
 
 ---
 
