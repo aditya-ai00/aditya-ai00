@@ -1,7 +1,7 @@
 <!-- 🌌 CUSTOM BANNER -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Aditya+%7C+AI+Developer;Voice+Agent+Builder;Google+Student+Ambassador;Welcome+to+My+Neon+Universe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Aditya+%7C+AI+Developer;Voice+Agent+Builder;Google+Student+Ambassador" />
 </h1>
 
 
@@ -13,7 +13,7 @@
 ---
 
 ## About Me 
-I'm **Aditya**, a B.Tech student building the future with **AI**, **Voice Technology**, and **Neon UI experiences**.  
+I'm **Aditya**, a B.Tech student building the future with **AI**, **Voice Technology**.  
 Proud **Google Student Ambassador**, helping students explore emerging tech.
 
 Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
