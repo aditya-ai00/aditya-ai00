@@ -12,7 +12,7 @@
 
 ---
 
-## 🌙 About Me 
+## About Me 
 I'm **Aditya**, a B.Tech student building the future with **AI**, **Voice Technology**, and **Neon UI experiences**.  
 Proud **Google Student Ambassador**, helping students explore emerging tech.
 
@@ -22,7 +22,7 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 
 <!-- 🔥 NEON LINE -->
 
-## 🔥 Skills & Tech Stack
+## Skills & Tech Stack
 <p align="center">
   JavaScript • Node.js • Python • HTML • CSS • React  
   <br/>
@@ -33,7 +33,7 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 
 
 
-## 🎯 Murf AI Voice Agents Challenge  
+##  Murf AI Voice Agents Challenge  
 | Day | Project | Status |
 |----|----------|--------|
 | ☑️ 1 | Basic Voice Agent | Completed |
@@ -43,7 +43,7 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 
 ---
 
-## ✨ Featured Projects  
+##  Featured Projects  
 ### 🔊 Day 1 – Simple Voice Agent  
 👉 https://github.com/aditya-ai00/luma/tree/main/day1
 
@@ -59,7 +59,7 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 
 ---
 
-## 📬 Contact  
+## Contact  
 **Email:** adityanyo39@gmail.com  
 **Phone:** +91 9102829279  
 **LinkedIn:** https://linkedin.com/in/aditya-ai00  
