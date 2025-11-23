@@ -30,7 +30,7 @@ Currently working on the **Murf AI Voice Agents Challenge** where I’m building
 |----|----------|--------|
 | ☑️ 1 | Basic Voice Agent | Completed |
 | ☑️ 2 | Coffee Barista Agent | Completed |
-| 🔜 3 | Coming Soon | Loading… |
+| ☑️ 3 | Health & Wellness Voice Companion | Completed |
 | 🔜 4 | Coming Soon | Loading… |
 
 ---
