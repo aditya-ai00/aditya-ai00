@@ -22,11 +22,6 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 ---
 
 <!-- 🔥 NEON LINE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="92%" />
-</p>
-
----
 
 ## 🔥 Skills & Tech Stack (Neon Mode)
 <p align="center">
