@@ -1,22 +1,23 @@
-
-
-
-## 🚀 About Me  
-I'm Aditya, a B.Tech student exploring **AI, Voice Technologies, and UI Engineering**.  
-Proud to be a **Google Student Ambassador**, passionate about helping students learn emerging tech.
-
-Currently competing in the **Murf AI Voice Agents Challenge**, building 10 fully working voice agents in 10 days.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aditya+👋;AI+Developer+%7C+Voice+Agent+Builder;Google+Student+Ambassador;Creating+10+Voice+Agents+in+10+Days!" />
+</h1>
 
 ---
 
-<!-- 🔥 Floating Emoji Header -->
-<h2 align="center">
-  ⚡ Skills • Interests • Tools ⚡
-</h2>
-
+<!-- 💫 Glowing Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="95%" />
+  <img src="https://i.imgur.com/5c1GZ4V.gif" width="90%" />
 </p>
+
+---
+
+## 🚀 About Me  
+I'm Aditya, a B.Tech student exploring **AI, Voice Technologies, and UI Engineering**.  
+Proud to be a **Google Student Ambassador**, helping students learn emerging tech.
+
+Currently competing in the **Murf AI Voice Agents Challenge**, building 10 voice agents in 10 days.
+
+---
 
 ## ⚡ Tech Stack  
 <p align="center">
@@ -25,11 +26,8 @@ Currently competing in the **Murf AI Voice Agents Challenge**, building 10 fully
 
 ---
 
-## ☕ Coffee-Themed Animated Break  
 <p align="center">
-  <img src="https://i.imgur.com/iMdrw0L.gif" height="120" />
-  <img src="https://i.imgur.com/kG4S6FJ.gif" height="120" />
-  <img src="https://i.imgur.com/iMdrw0L.gif" height="120" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
 </p>
 
 ---
@@ -44,10 +42,7 @@ Currently competing in the **Murf AI Voice Agents Challenge**, building 10 fully
 
 ---
 
-<!-- ✨ Glowing neon header -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&color=F28EFF&center=true&vCenter=true&width=500&lines=Featured+Projects;Click+Below+To+Explore" />
-</h2>
+## ✨ Featured Projects  
 
 ### ☕ **Day 2 – Coffee Barista Agent**
 <a href="https://github.com/aditya-ai00/luma/tree/main/day2">
@@ -63,16 +58,7 @@ Currently competing in the **Murf AI Voice Agents Challenge**, building 10 fully
 
 ---
 
-## 💡 Animated Passion Lines  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2200&pause=800&color=AAF2FF&center=true&vCenter=true&width=600&lines=I+love+building+AI+projects;I+love+creating+voice+agents;I+love+helping+students+learn+tech;Always+learning+Always+building" />
-</p>
-
----
-
 ## 📬 Contact Me  
-Here is the clean contact section:
-
 **Email:** adityanyo39@gmail.com  
 **Phone:** +91 9102829279  
 **LinkedIn:** https://linkedin.com/in/aditya-ai00  
