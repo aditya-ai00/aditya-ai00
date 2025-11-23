@@ -1,7 +1,4 @@
 <!-- 🌌 CUSTOM BANNER -->
-<p align="center">
-  <img src="/mnt/data/Screenshot 2025-11-21 at 23.46.18.png" width="100%" style="border-radius: 14px;" />
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Aditya+%7C+AI+Developer;Voice+Agent+Builder;Google+Student+Ambassador;Welcome+to+My+Neon+Universe" />
@@ -16,7 +13,7 @@
 
 ---
 
-## 🌙 About Me (Dark Neon Theme)
+## 🌙 About Me 
 I'm **Aditya**, a B.Tech student building the future with **AI**, **Voice Technology**, and **Neon UI experiences**.  
 Proud **Google Student Ambassador**, helping students explore emerging tech.
 
