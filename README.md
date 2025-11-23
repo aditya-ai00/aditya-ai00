@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Aditya+%7C+AI+Developer;Voice+Agent+Builder;Google+Student+Ambassador;Welcome+to+My+Neon+Universe" />
 </h1>
 
----
 
 <!-- 🔥 DARK NEON GLOW BORDER -->
 <div align="center">
@@ -23,7 +22,7 @@ Currently building **10 Voice Agents in 10 Days** for the Murf AI Challenge.
 
 <!-- 🔥 NEON LINE -->
 
-## 🔥 Skills & Tech Stack (Neon Mode)
+## 🔥 Skills & Tech Stack
 <p align="center">
   JavaScript • Node.js • Python • HTML • CSS • React  
   <br/>
