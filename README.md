@@ -33,6 +33,7 @@ Currently working on the **Murf AI Voice Agents Challenge** where I’m building
 | ☑️ 3 | Health & Wellness Voice Companion | Completed |
 | ☑️ 4 | Active Recall Tutor | Completed |
 | ☑️ 5 | Zomato SDR Assistant | Completed |
+| ☑️ 6 | SecureBank Fraud Agent | Completed |
 
 ---
 
