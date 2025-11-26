@@ -47,6 +47,13 @@ Currently working on the **Murf AI Voice Agents Challenge** where I’m building
 ### ✔ Day 3 — Health & Wellness Voice Companion  
 🔗 https://github.com/aditya-ai00/luma/tree/main/day3
 
+### 📚 Day 4 – Active Recall Tutor (Teach-the-Tutor)  
+👉 https://github.com/aditya-ai00/luma/tree/main/day4  
+
+### 📞 Day 5 – Zomato SDR + Lead Capture Agent  
+👉 https://github.com/aditya-ai00/luma/tree/main/day5  
+
+
 ---
 
 <!-- 🔥 ANIMATED PASSION LINES (NO HEADLINE) -->
