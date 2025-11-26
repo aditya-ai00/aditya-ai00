@@ -54,6 +54,9 @@ Currently working on the **Murf AI Voice Agents Challenge** where I’m building
 ### 📞 Day 5 – Zomato SDR + Lead Capture Agent  
 👉 https://github.com/aditya-ai00/luma/tree/main/day5  
 
+### 🏦 Day 6 - SecureBank Fraud Agent
+👉 https://github.com/aditya-ai00/luma/tree/main/day6
+
 
 ---
 
