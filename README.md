@@ -66,7 +66,6 @@ I successfully completed the **Murf AI Voice Agents Challenge — 10 Voice Agent
 
 ## Contact  
 📧 **Email:** adityanyo39@gmail.com  
-📱 **Phone:** +91 9102829279  
 🔗 **LinkedIn:** https://www.linkedin.com/in/aditya-kumar23/  
 💻 **GitHub:** https://github.com/aditya-ai00  
 
